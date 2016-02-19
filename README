@@ -1,0 +1,1 @@
+GHC 使用hsc2hs和c2hs 调用sqlite3的例子。
